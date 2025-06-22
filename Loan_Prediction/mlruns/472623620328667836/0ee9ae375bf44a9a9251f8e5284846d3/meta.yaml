@@ -1,0 +1,15 @@
+artifact_uri: file:///home/raman/Downloads/Raman-main/mlruns/472623620328667836/0ee9ae375bf44a9a9251f8e5284846d3/artifacts
+end_time: 1746601220426
+entry_point_name: ''
+experiment_id: '472623620328667836'
+lifecycle_stage: active
+run_id: 0ee9ae375bf44a9a9251f8e5284846d3
+run_name: fearless-stag-668
+run_uuid: 0ee9ae375bf44a9a9251f8e5284846d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746601220415
+status: 3
+tags: []
+user_id: raman

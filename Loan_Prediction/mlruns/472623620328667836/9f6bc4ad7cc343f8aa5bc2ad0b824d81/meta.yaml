@@ -1,0 +1,15 @@
+artifact_uri: file:///home/raman/Downloads/Raman-main/mlruns/472623620328667836/9f6bc4ad7cc343f8aa5bc2ad0b824d81/artifacts
+end_time: 1746518616786
+entry_point_name: ''
+experiment_id: '472623620328667836'
+lifecycle_stage: active
+run_id: 9f6bc4ad7cc343f8aa5bc2ad0b824d81
+run_name: bittersweet-deer-935
+run_uuid: 9f6bc4ad7cc343f8aa5bc2ad0b824d81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746518616781
+status: 3
+tags: []
+user_id: raman

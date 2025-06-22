@@ -1,0 +1,15 @@
+artifact_uri: file:///home/raman/Downloads/Raman-main/mlruns/472623620328667836/f577819e51c14fe98fb8248116bdf095/artifacts
+end_time: 1746552100402
+entry_point_name: ''
+experiment_id: '472623620328667836'
+lifecycle_stage: active
+run_id: f577819e51c14fe98fb8248116bdf095
+run_name: vaunted-flea-461
+run_uuid: f577819e51c14fe98fb8248116bdf095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746552100396
+status: 3
+tags: []
+user_id: raman

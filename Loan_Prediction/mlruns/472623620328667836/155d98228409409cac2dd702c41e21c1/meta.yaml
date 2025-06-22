@@ -1,0 +1,15 @@
+artifact_uri: file:///home/raman/Downloads/Raman-main/mlruns/472623620328667836/155d98228409409cac2dd702c41e21c1/artifacts
+end_time: 1746601323504
+entry_point_name: ''
+experiment_id: '472623620328667836'
+lifecycle_stage: active
+run_id: 155d98228409409cac2dd702c41e21c1
+run_name: aged-dove-873
+run_uuid: 155d98228409409cac2dd702c41e21c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746601323495
+status: 3
+tags: []
+user_id: raman

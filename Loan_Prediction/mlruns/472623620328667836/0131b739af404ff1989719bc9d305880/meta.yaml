@@ -1,0 +1,15 @@
+artifact_uri: file:///home/raman/Downloads/Raman-main/mlruns/472623620328667836/0131b739af404ff1989719bc9d305880/artifacts
+end_time: 1746552266123
+entry_point_name: ''
+experiment_id: '472623620328667836'
+lifecycle_stage: active
+run_id: 0131b739af404ff1989719bc9d305880
+run_name: nimble-chimp-356
+run_uuid: 0131b739af404ff1989719bc9d305880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746552266117
+status: 3
+tags: []
+user_id: raman

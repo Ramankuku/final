@@ -1,9 +1,0 @@
-langchain
-langchain-community
-faiss-cpu
-pypdf
-duckduckgo-search
-flask
-flask-cors
-streamlit
-openai

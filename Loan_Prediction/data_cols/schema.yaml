@@ -1,0 +1,64 @@
+columns:
+- ID: int64
+- Age: int64
+- Experience: int64
+- Income: int64
+- ZIP Code: int64
+- Family: int64
+- CCAvg: object
+- Education: object
+- Mortgage: int64
+- Personal Loan: object
+- Securities Account: object
+- CD Account: object
+- Online: object
+- CreditCard: object
+
+categorical_columns:
+- CCAvg
+- Personal Loan
+- Securities Account
+- CD Account
+- Online
+- CreditCard
+- Education
+
+numerical_columns:
+- ID
+- Age
+- Experience
+- Income
+- ZIP Code
+- Education
+- Family
+
+drop_columns:
+- ID
+- Securities Account   
+- Experience   
+- ZIP Code         
+- Age                   
+- Family                
+- CreditCard  
+- Online          
+
+categorical_ordinal_encoder_columns:
+- Education
+
+categorical_label_column:
+- Personal Loan
+- Securities Account
+- CD Account
+- Online
+- CreditCard
+
+ccavg_convert:
+- CCAvg
+
+conversion_columns:
+- Securities Account
+- CD Account
+- Online
+- CreditCard
+
+

@@ -12,7 +12,7 @@ from src.entity.artifact_entity import DataIngestionArtifact, DataValidationArti
 from src.constants import SCHEMA_PATH, TARGET
 from src.utils.utils import read_yaml_file, save_numpy, save_object
 from sklearn.pipeline import Pipeline
-from sklearn.compose import ColumnTransformer
+
 
 
 class DataTransformation:

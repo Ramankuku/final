@@ -1,0 +1,4 @@
+flask
+numpy
+pickle-mixin
+scikit-learn

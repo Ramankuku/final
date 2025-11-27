@@ -5,7 +5,7 @@ import numpy as np
 app = Flask(__name__)
 
 # Load the trained model
-with open("D:\\FinalProjects\\Loan_Prediction\\src\\Notebook\\tree_model.pkl", "rb") as f:
+with open("tree_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 @app.route('/predict', methods=['POST'])
@@ -31,5 +31,4 @@ def predict():
 
 
 if __name__ == '__main__':
-    # Run on port 8000 since your client is calling that
     app.run(host="0.0.0.0", port=8000, debug=True)
